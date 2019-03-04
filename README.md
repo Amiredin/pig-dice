@@ -20,3 +20,5 @@ Amir Edin
 ## contanct 
 * phone : 0757853395
 * Email : amiredin@yahoo.com
+## licence and copyright 
+

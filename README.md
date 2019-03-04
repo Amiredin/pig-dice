@@ -5,3 +5,4 @@ it's game between two players where each of them can roll the dice and their sco
 Amir Edin
 ## set up Requirment
 * pc
+* web browser

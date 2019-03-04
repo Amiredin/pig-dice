@@ -14,3 +14,6 @@ Amir Edin
 | it enabels the user to hold |
 
 ## Technologies used 
+* HTML
+* CSS
+* JQuery

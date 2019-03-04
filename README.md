@@ -21,4 +21,7 @@ Amir Edin
 * phone : 0757853395
 * Email : amiredin@yahoo.com
 ## licence and copyright 
+MIT License
+
+Copyright (c) 2019 Amiredin
 

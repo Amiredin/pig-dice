@@ -4,3 +4,4 @@ it's game between two players where each of them can roll the dice and their sco
 ## Author
 Amir Edin
 ## set up Requirment
+* pc

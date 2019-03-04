@@ -9,3 +9,4 @@ Amir Edin
 ## BDD
 | Body Description |
 | ---- |
+| it gives the player chance  to roll the dice  |

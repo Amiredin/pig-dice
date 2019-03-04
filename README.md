@@ -10,3 +10,5 @@ Amir Edin
 | Body Description |
 | ---- |
 | it gives the player chance  to roll the dice  |
+| it displays score of each player |
+| it enabels the user to hold |
